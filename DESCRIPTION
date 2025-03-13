@@ -1,0 +1,25 @@
+Package: reconstitution
+Type: Package
+Title: Computer assisted reconstitution
+Version: 0.1.0
+Author: Erich Round
+Maintainer: Erich Round <e.round@uq.edu.au>
+Description: Computer assisted analysis of early amateur transcriptions 
+    of Australian Indigenous languages
+License: CC-BY
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    pwalign,
+    stringr,
+    readr,
+    R.utils,
+    tidyr
+Collate: 
+    'alignment.R'
+    'data_processing.R'
+    'graphemic_parser.R'
+    'input_checks.R'
+    'reporting.R'
+    'soundset_parser.R'

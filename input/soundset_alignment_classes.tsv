@@ -1,0 +1,9 @@
+class	members	align_score
+consonants	ptTckmnɲŋlrwy	1
+vowels	aiuEOV	1
+i_voicoids	iyY	5
+u_voicoids	uwW	5
+peripheral_nasals	mŋ	5
+nonlabial_nasals	nɲŋ	5
+liquids	lr	5
+delimiters	Ø+	5

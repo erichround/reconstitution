@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+importFrom(R.utils, intToBin)
+importFrom(tidyr, unnest)
+importFrom(pwalign, pairwiseAlignment)
+importFrom(readr, read_tsv)
