@@ -88,12 +88,19 @@ Again, this will first run checks and then will produce the analysis. A user-fri
 ## References
 
 Anderson, Rachael (2018). Computationally Assisted Interlanguage Reconstitution. Unpublished ms.
+
 Blake, Barry (2003). The Bunganditj (Buwandik) language of the Mount Gambier Region. Canberra: Pacific Linguistics
+
 Bott, Thomas (2018). Towards Automation in Reconstitution. Unpublished ms.
+
 Broadbent, Sylvia (1957). Rumsen I: Methods of Reconstitution. International Journal of American Linguistics, 23(4), 275-280.
+
 Browne, Mitchell (2016). When Only Words Remain: Testing a Method of ‘Comparative Reconstitution’ in Ngarluma. Honours thesis, University of Western Australia.
+
 Browne, Mitchell, Rachael Anderson, Edith Kirlew, Thomas Bott, and Erich R. Round. (2019). 'Comparative Reconstitution: Using and Automating the Historical-Comparative Method to Interpret Historical Language Sources'. Presented at the Historical-Comparative Linguistics for Language Revitalization, University of California, Davis, July 1.
+
 Dench, Alan (1999). Comparative Reconstitution. In J. C. Smith, & D. Bentley, Selected papers from the 12th International Conference of Historical Linguistics (pp. 57-72). Manchester: John Benjamins.
+
 Round, Erich R. (2018). Computationally assisted vocabulary reconstitution from amateur wordlists. Unpublished ms.
 
 
